@@ -87,22 +87,6 @@ This project is protected to secure the intellectual property and prevent unauth
 - Prevents unauthorized use of proprietary technology
 - Mitigates risks of code theft and replication
 
-### Obfuscation process
-The code is obfuscated using PyArmor 9.1.2 with the following steps:
-
-1. Install PyArmor:
-```bash
-pip install pyarmor==9.1.2
-```
-
-2. Obfuscate the code:
-```bash
-pyarmor obfuscate --recursive main.py
-```
-
-3. The obfuscated code will be generated in the `dist` folder, which can be distributed securely.
-
-For contributors who need access to the original source code, please contact the repository owner.
 
 ## 🗄️ Free PostgreSQL Database on Neon
 
@@ -159,8 +143,7 @@ email2@example.com:password2
 
 ### proxy.txt
 ```
-http://username:password@ip:port
-http://ip:port
+username:password@ip:port
 ```
 
 ## 📄 License
