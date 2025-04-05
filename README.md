@@ -2,7 +2,7 @@
 
 Automated tool for working with the NodeGo DePIN ecosystem. Complete tasks and manage accounts effortlessly.
 
-![NodeGo Interface](https://github.com/gaanss/nodeGo/int.png)
+![NodeGo Interface](https://github.com/gaanss/nodeGo/blob/main/int.png)
 
 ## ✨ Features
 
