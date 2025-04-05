@@ -1,0 +1,30 @@
+database:
+  host: 1.1.1.1
+  port: 5432
+  name: nodego
+  user: postgres
+  password: 123456
+
+proxy:
+  type: http
+  file: proxy.txt
+
+email:
+  imap_server: mail.gmail.com
+  imap_port: 993
+
+files:
+  accounts: accounts.txt
+
+registration:
+  threads: 3
+  delays:
+    min: 2
+    max: 5
+  username_prefix: user_
+
+
+capsolver:
+  api_key: CAP-
+  site_key: 0x4AAAAAAA4zgfgCoYChIZf4
+  site_url: https://nodego.ai 
