@@ -2,7 +2,7 @@
 
 Automated tool for working with the NodeGo DePIN ecosystem. Complete tasks and manage accounts effortlessly.
 
-![NodeGo Interface](https://github.com/gaanss/nodego/int.png)
+![NodeGo Interface](https://github.com/gaanss/nodeGo/int.png)
 
 ## ✨ Features
 
@@ -56,7 +56,7 @@ capsolver:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/gaanss/nodego.git
+git clone https://github.com/gaanss/nodeGo.git
 cd nodego
 ```
 
